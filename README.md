@@ -1,4 +1,4 @@
-![Banner](https://postimg.cc/XGcm2v50) 
+https://postimg.cc/XGcm2v50
 
 <!--
 **Dropletofdeceit/Dropletofdeceit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
